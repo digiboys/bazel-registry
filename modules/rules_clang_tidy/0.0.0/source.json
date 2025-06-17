@@ -1,0 +1,5 @@
+{
+  "url": "https://github.com/oliverlee/rules_clang_tidy/archive/refs/tags/0.0.0.tar.gz",
+  "integrity": "sha256-3FiNjsUJM/eL7qrJ1giCnmpvPHIwjMk+KsokHsUsHLQ=",
+  "strip_prefix": "rules_clang_tidy-0.0.0"
+}
