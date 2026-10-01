@@ -1,0 +1,5 @@
+{
+  "url": "https://github.com/oliverlee/bazel_clang_format/archive/refs/tags/0.0.2.tar.gz",
+  "integrity": "sha256-9LFtv2UU8BrUgihwe5EQLSZnCftDAywz5sPbh/GezGU=",
+  "strip_prefix": "bazel_clang_format-0.0.2"
+}
